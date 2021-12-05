@@ -1,2 +1,2 @@
 # MultiSIgWallet
-Solidity based MultiSigWallet 
+Solidity based MultiSigWallet following Solidity Programmer's YT tutorials
