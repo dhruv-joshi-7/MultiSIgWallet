@@ -1,2 +1,5 @@
 # MultiSIgWallet
-Solidity based MultiSigWallet following Solidity Programmer's YT tutorials
+
+Ethereum MultiSig Wallet that implements the IERC20 functions.
+
+Languagues used: Solidity and Javascript.
