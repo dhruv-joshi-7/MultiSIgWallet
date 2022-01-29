@@ -1,5 +1,5 @@
 # MultiSIgWallet
 
-Ethereum MultiSig Wallet that implements the IERC20 functions.
+Ethereum MultiSig Wallet that implements the ERC20 functions.
 
 Languagues used: Solidity and Javascript.
